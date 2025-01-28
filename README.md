@@ -8,5 +8,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Avilla)](https://github.com/Victor-Avilla/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Victor_Avilla)](https://github.com/Victor-Avilla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Avilla)](https://github.com/Victor-Avilla/github-readme-stats)
