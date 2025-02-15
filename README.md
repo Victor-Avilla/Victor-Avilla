@@ -3,7 +3,6 @@
 
 
 
-<p>Métricas de uso de linguagem</p>
 
 
 
