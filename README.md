@@ -1,36 +1,35 @@
-<h1 align="center">Olá, eu sou Victor 👋</h1>
+<h1 align="center">Hi, I'm Victor 👋</h1>
 
 ---
 
-Sou um profissional em transição para a área de Desenvolvimento Web, após 4 anos de experiência na Vale S.A.  
-Atuei com manutenção industrial, processos administrativos, liderança de equipes e aplicação de metodologias ágeis de melhoria contínua (Kanban, Kaizen, CCQ, A3).  
-Responsável por KPIs, engajamento de equipes, gestão via SAP, apresentações para liderança e diretoria e realização de treinamentos para diferentes equipes.  
-Reconhecido anualmente por desempenho, responsabilidade e comprometimento com resultados.
+As a professional transitioning into Web Development, I bring four years of experience from Vale S.A., where I worked across industrial maintenance, administrative processes, team leadership, and the implementation of continuous improvement methodologies such as Kanban, Kaizen, CCQ, and A3. My responsibilities included managing KPIs, driving team engagement, operating SAP systems, delivering presentations to leadership, and conducting training sessions for cross-functional teams. Consistent annual recognition reflected my performance, accountability, and results-driven mindset.
 
-Há cerca de 1 ano me especializo em programação fullstack, com foco em **React**, **JavaScript**, **Bootstrap**, **Node.js** e **MongoDB**. Desenvolvo projetos práticos acadêmicos, aplicando responsividade, integração front-back, componentização e boas práticas de UI/UX.  
-Busco minha primeira oportunidade profissional em tecnologia, para unir minha bagagem corporativa de disciplina, organização e trabalho em equipe ao meu repertório técnico.
+Over the past year, I’ve been specializing in fullstack development with a focus on React, JavaScript, Node.js, and MongoDB. Through hands-on academic projects, I’ve applied responsiveness, front-back integration, component-based architecture, and UI/UX best practices.
 
-Sou proativo, comunicativo, transparente e estou sempre em busca de aprendizado contínuo – tanto em tecnologia quanto em soft skills. Quero contribuir para ambientes inovadores, colaborativos e com oportunidades de desenvolvimento profissional.
+Now, I’m seeking my first opportunity in tech to merge my solid corporate foundation—built on discipline, organization, and collaboration—with my evolving technical expertise.
+
+Proactive, communicative, and transparent, I’m committed to continuous learning in both technical and soft skills. My goal is to contribute to innovative, collaborative environments where growth and impact go hand in hand.
 
 ---
 
-## Projetos em Destaque
+## Featured Projects
 
-- [**Página de Cadastro e Lista de Usuários**](https://github.com/Victor-Avilla/Pagina-de-cadastro-e-lista-de-usuarios)  
-  <sub>Aplicação fullstack com React, Node.js, Express, Prisma e responsividade. Cadastro, listagem, remoção de usuários e integração front-back.</sub>
+- [**User Registration and Listing Page**](https://github.com/Victor-Avilla/Pagina-de-cadastro-e-lista-de-usuarios)  
+  <sub>Fullstack app with React, Node.js, Express, Prisma, and responsiveness. Includes user registration, listing, removal, and front-back integration.</sub>
 
 - [**Bootstrap Login Page**](https://github.com/Victor-Avilla/Bootstrap)  
-  <sub>Login responsivo, tema claro/escuro persistente, UI moderna com Bootstrap.</sub>
+  <sub>Responsive login with persistent dark/light theme and modern UI using Bootstrap.</sub>
 
 - [**Burger Menu**](https://github.com/Victor-Avilla/Burger-Menu)  
-  <sub>Projeto em JavaScript puro, métodos avançados de array, manipulação de DOM, CSS Grid responsivo.</sub>
+  <sub>Pure JavaScript project with advanced array methods, DOM manipulation, and responsive CSS Grid layout.</sub>
 
 - [**Node CRUD API**](https://github.com/Victor-Avilla/Node)  
-  <sub>API RESTful completa em Node.js, Express, MongoDB e integração via Prisma ORM.</sub>
+  <sub>Complete RESTful API built with Node.js, Express, MongoDB, and Prisma ORM integration.</sub>
 
 ---
 
-## Principais Skills
+## Key Skills
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -48,60 +47,62 @@ Sou proativo, comunicativo, transparente e estou sempre em busca de aprendizado 
 
 ---
 
-## Metas de desenvolvimento profissional e pessoal
+## Professional and Personal Development Goals
 
-### 🔧 Tecnologias e conceitos a estudar
+### 🔧 Technologies and Concepts to Learn
 
-#### 🛠️ Back-end e DevOps
-- [ ] Banco de dados relacionais e não-relacionais
-- [ ] ORMs
-- [ ] **Docker**
-- [ ] Autenticação com **JWT**, encriptação de senhas
-- [ ] Publicação de APIs em ambientes como Render/Railway
-
-#### 🎨 Front-end avançado e animações
-- [ ] **TypeScript**
+#### 🎨 Front-end
+- [X] **TypeScript**
+- [ ] **TailWind CSS**
 - [ ] **Next.JS**
 - [ ] **Framer Motion**
 - [ ] **GSAP**
 - [ ] **SplitType**
 - [ ] **Intersection Observer API**
-- [ ] **CSS Keyframes e Transitions**
+- [ ] **CSS Keyframes and Transitions**
 - [ ] **Elementor-style interactions**
 
+#### 🛠️ Back-end
+- [ ] Relational and non-relational databases
+- [ ] ORMs
+- [ ] **Docker**
+- [ ] Authentication with **JWT**, password encryption
+- [ ] API deployment using platforms like Render/Railway
+
 ---
 
-### 💻 Próximos projetos autorais
-- [ ] Portfólio interativo com animações via Framer Motion e GSAP
-- [ ] Gerenciador financeiro com gráficos, modo dark/light e exportação em formato PDF
+### 💻 Upcoming Personal Projects
+- [ ] Interactive portfolio with animations using Framer Motion and GSAP
+- [ ] Financial manager with charts, dark/light mode, and PDF export
 
 ---
 
-### 📚 Desenvolvimento pessoal
+### 📚 Personal Development
 
-#### Inglês e comunicação
-- [ ] Chegar ao nível **B2 em inglês até dezembro/2025**
-- [ ] Curso de comunicação em andamento
-- [ ] Aprimorar expressão verbal e clareza em apresentações técnicas
+#### English and Communication
+- [ ] Reach **C1 level in English by December 2025**
+- [ ] Ongoing communication course
+- [ ] Improve verbal expression and clarity in technical presentations
 
-#### Leitura atual e futura
+#### Current and Future Reading
 - [ ] _Don't Say Um... How to Communicate Effectively to Live a Better Life_ – Michael Chadhopner
-- [ ] _A Mágica de Pensar Grande_ – David J. Schwartz
-- [ ] _Antifrágil_ – Nassim Nicholas Taleb
-- [ ] _Hábitos Atômicos_ – James Clear
-- [ ] _O Poder do Hábito_ – Charles Duhigg
+- [ ] _Scrum: The Art of Doing Twice the Work in Half the Time_ – JJ Sutherland
+- [ ] _The Magic of Thinking Big_ – David J. Schwartz
+- [ ] _Antifragile_ – Nassim Nicholas Taleb
+- [ ] _Atomic Habits_ – James Clear
+- [ ] _The Power of Habit_ – Charles Duhigg
 
 ---
 
-### 🎯 Metas mensuráveis
-- [ ] Finalizar pelo menos **1 projeto autoral de complexidade**
-- [ ] Fazer **1 commit por dia no GitHub (mínimo 5 dias por semana)**
-- [ ] Participar de **um evento presencial de tecnologia**
-- [ ] Concluir o curso fullstack atual até dezembro de 2025
+### 🎯 Measurable Goals
+- [ ] Complete **5 personal projects**
+- [ ] Make **1 commit per day on GitHub (at least 5 days/week starting July 2025)**
+- [ ] Attend **1 in-person tech event**
+- [ ] Finish current fullstack course by December 2025
 
 ---
 
-## Contato
+## Contact
 
 <a href="https://www.linkedin.com/in/victor-hugo-fonseca-7890961a4" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -110,12 +111,3 @@ Sou proativo, comunicativo, transparente e estou sempre em busca de aprendizado 
   <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
-
-<div align="center">
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Victor_Avilla)](https://github.com/Victor-Avilla/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Avilla)](https://github.com/Victor-Avilla/github-readme-stats)
-
-
-</div>
