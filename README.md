@@ -1,3 +1,108 @@
+[English below]
+
+<h1 align="center">Oi, eu sou o Victor 👋</h1>
+
+---
+
+Como profissional em transição para o Desenvolvimento Web, trago quatro anos de experiência na Vale S.A., onde atuei com manutenção industrial, processos administrativos, liderança de equipe e implementação de metodologias de melhoria contínua como Kanban, Kaizen, CCQ e A3. Minhas responsabilidades incluíam gestão de KPIs, engajamento da equipe, operação de sistemas SAP, apresentações para lideranças e treinamentos para equipes multifuncionais. O reconhecimento anual constante refletiu minha performance, responsabilidade e foco em resultados.
+
+No último ano, venho me especializando em desenvolvimento fullstack com foco em React, JavaScript, Node.js e MongoDB. Em projetos acadêmicos práticos, apliquei conceitos como responsividade, integração front-back, arquitetura baseada em componentes e boas práticas de UI/UX.
+
+Atualmente, busco minha primeira oportunidade na área de tecnologia para unir minha sólida base corporativa — construída com disciplina, organização e colaboração — à minha crescente expertise técnica.
+
+Proativo, comunicativo e transparente, estou comprometido com o aprendizado contínuo, tanto técnico quanto comportamental. Meu objetivo é contribuir com ambientes colaborativos e inovadores onde crescimento e impacto caminhem juntos.
+
+---
+
+## Projetos em Destaque
+
+- [**Página de Cadastro e Listagem de Usuários**](https://github.com/Victor-Avilla/Pagina-de-cadastro-e-lista-de-usuarios)  
+  <sub>Aplicação fullstack com React, Node.js, Express, Prisma e responsividade. Inclui cadastro, listagem, remoção de usuários e integração front-back.</sub>
+
+- [**Página de Login com Bootstrap**](https://github.com/Victor-Avilla/Bootstrap)  
+  <sub>Login responsivo com tema claro/escuro persistente e UI moderna usando Bootstrap.</sub>
+
+- [**Menu Hamburguer**](https://github.com/Victor-Avilla/Burger-Menu)  
+  <sub>Projeto em JavaScript puro com métodos avançados de array, manipulação do DOM e layout responsivo em CSS Grid.</sub>
+
+- [**API Node CRUD**](https://github.com/Victor-Avilla/Node)  
+  <sub>API RESTful completa construída com Node.js, Express, MongoDB e integração com Prisma ORM.</sub>
+
+---
+
+## Habilidades Principais
+
+*(Badges mantidas como no original)*
+
+---
+
+## Metas Profissionais e Pessoais
+
+### 🔧 Tecnologias e Conceitos a Aprender
+
+#### 🎨 Front-end
+- [X] **TypeScript**
+- [ ] **TailWind CSS**
+- [ ] **Next.JS**
+- [ ] **Framer Motion**
+- [ ] **GSAP**
+- [ ] **SplitType**
+- [ ] **Intersection Observer API**
+- [ ] **Animações com CSS (Keyframes e Transitions)**
+- [ ] **Interações estilo Elementor**
+
+#### 🛠️ Back-end
+- [ ] Bancos de dados relacionais e não relacionais
+- [ ] ORMs
+- [ ] **Docker**
+- [ ] Autenticação com **JWT**, criptografia de senhas
+- [ ] Deploy de APIs usando plataformas como Render/Railway
+
+---
+
+### 💻 Próximos Projetos Pessoais
+- [ ] Portfólio interativo com animações usando Framer Motion e GSAP
+- [ ] Gerenciador financeiro com gráficos, modo escuro/claro e exportação para PDF
+
+---
+
+### 📚 Desenvolvimento Pessoal
+
+#### Inglês e Comunicação
+- [ ] Atingir o nível **C1 em inglês até dezembro de 2025**
+- [ ] Curso de comunicação em andamento
+- [ ] Melhorar clareza e expressão verbal em apresentações técnicas
+
+#### Leituras Atuais e Futuras
+- [ ] _Don't Say Um... How to Communicate Effectively to Live a Better Life_ – Michael Chadhopner  
+- [ ] _Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo_ – JJ Sutherland  
+- [ ] _O Poder do Pensamento Positivo_ – David J. Schwartz  
+- [ ] _Antifrágil_ – Nassim Nicholas Taleb  
+- [ ] _Hábitos Atômicos_ – James Clear  
+- [ ] _O Poder do Hábito_ – Charles Duhigg
+
+---
+
+### 🎯 Metas Mensuráveis
+- [ ] Concluir **5 projetos pessoais**
+- [ ] Fazer **1 commit por dia no GitHub (mínimo 5 dias/semana a partir de julho de 2025)**
+- [ ] Participar de **1 evento tech presencial**
+- [ ] Finalizar curso atual de fullstack até dezembro de 2025
+
+---
+
+## Contato
+
+<a href="https://www.linkedin.com/in/victor-hugo-fonseca-7890961a4" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:victorfonsecaavila@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+---
+
 <h1 align="center">Hi, I'm Victor 👋</h1>
 
 ---
