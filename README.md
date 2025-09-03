@@ -1,5 +1,3 @@
-[English below]
-
 <h1 align="center">Oi, eu sou o Victor 👋</h1>
 
 ---
