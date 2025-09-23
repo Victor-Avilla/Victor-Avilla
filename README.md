@@ -1,6 +1,3 @@
-<h1 align="center">Oi, eu sou o Victor 👋</h1>
-
----
 
 Como profissional em transição para o Desenvolvimento Web, trago quatro anos de experiência na Vale S.A., onde atuei com manutenção industrial, processos administrativos, liderança de equipe e implementação de metodologias de melhoria contínua como Kanban, Kaizen, CCQ e A3. Minhas responsabilidades incluíam gestão de KPIs, engajamento da equipe, operação de sistemas SAP, apresentações para lideranças e treinamentos para equipes multifuncionais. O reconhecimento anual constante refletiu minha performance, responsabilidade e foco em resultados.
 
@@ -52,7 +49,7 @@ Proativo, comunicativo e transparente, estou comprometido com o aprendizado cont
 
 #### 🎨 Front-end
 - [X] **TypeScript**
-- [ ] **TailWind CSS**
+- [X] **TailWind CSS**
 - [ ] **Next.JS**
 - [ ] **Framer Motion**
 - [ ] **GSAP**
@@ -63,10 +60,10 @@ Proativo, comunicativo e transparente, estou comprometido com o aprendizado cont
 
 #### 🛠️ Back-end
 - [ ] Bancos de dados relacionais e não relacionais
-- [ ] ORMs
+- [X] ORMs
 - [ ] **Docker**
 - [ ] Autenticação com **JWT**, criptografia de senhas
-- [ ] Deploy de APIs usando plataformas como Render/Railway
+- [X] Deploy de APIs usando plataformas como Render/Railway
 
 ---
 
