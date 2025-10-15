@@ -1,27 +1,29 @@
-
-Como profissional em transição para o Desenvolvimento Web, trago quatro anos de experiência na Vale S.A., onde atuei com manutenção industrial, processos administrativos, liderança de equipe e implementação de metodologias de melhoria contínua como Kanban, Kaizen, CCQ e A3. Minhas responsabilidades incluíam gestão de KPIs, engajamento da equipe, operação de sistemas SAP, apresentações para lideranças e treinamentos para equipes multifuncionais. O reconhecimento anual constante refletiu minha performance, responsabilidade e foco em resultados.
+Atualmente em transição para o Desenvolvimento Web, possuo quatro anos de experiência na Vale S.A., onde atuei com manutenção industrial, gerenciamento de dados de desempenho da equipe, liderança de equipe e implementação de metodologias de melhoria contínua, como Kanban, Kaizen, CCQ e A3. Minhas responsabilidades incluíam gestão de KPIs, engajamento da equipe, operação de sistemas SAP, apresentações para lideranças e treinamentos para equipes multifuncionais. O reconhecimento anual constante refletiu minha performance, responsabilidade e foco em resultados.
 
 No último ano, venho me especializando em desenvolvimento fullstack com foco em React, JavaScript, Node.js e MongoDB. Em projetos acadêmicos práticos, apliquei conceitos como responsividade, integração front-back, arquitetura baseada em componentes e boas práticas de UI/UX.
 
-Atualmente, busco minha primeira oportunidade na área de tecnologia para unir minha sólida base corporativa — construída com disciplina, organização e colaboração — à minha crescente expertise técnica.
+Busco uma **oportunidade de estágio em Desenvolvimento Front-end ou Fullstack** para unir minha sólida base corporativa, construída com disciplina, organização e proatividade, à minha crescente capacidade técnica.
 
-Proativo, comunicativo e transparente, estou comprometido com o aprendizado contínuo, tanto técnico quanto comportamental. Meu objetivo é contribuir com ambientes colaborativos e inovadores onde crescimento e impacto caminhem juntos.
+Sou proativo, comunicativo e ambicioso. Estou comprometido com o aprendizado contínuo, tanto técnico quanto comportamental. Meu objetivo é ingressar como estagiário e desenvolver minhas habilidades técnicas de acordo com as necessidades da empresa e somar com uma cultura de melhoria contínua.
 
 ---
 
 ## Projetos em Destaque
 
+- [**Dashboard de Investimentos (em desenvolvimento)**](https://github.com/Victor-Avilla/Dashboard-de-Investimentos)  
+  <sub>Projeto pessoal em desenvolvimento com React, Tailwind e ChartsJS. Pensado para suprir uma necessidade real para investidores.</sub>
+
+- [**DevBills (em desenvolvimento)**](https://github.com/Victor-Avilla/DevBills)  
+  <sub>Projeto em desenvolvimento com o objetivo de consolidar fundamentos do TypeScript.</sub>
+
 - [**Página de Cadastro e Listagem de Usuários**](https://github.com/Victor-Avilla/Pagina-de-cadastro-e-lista-de-usuarios)  
-  <sub>Aplicação fullstack com React, Node.js, Express, Prisma e responsividade. Inclui cadastro, listagem, remoção de usuários e integração front-back.</sub>
+  <sub>Aplicação fullstack integrando **React, Node.js, Express, Prisma** e **MongoDB**, com CRUD de usuários e interface responsiva.</sub>
 
-- [**Página de Login com Bootstrap**](https://github.com/Victor-Avilla/Bootstrap)  
-  <sub>Login responsivo com tema claro/escuro persistente e UI moderna usando Bootstrap.</sub>
-
-- [**Menu Hamburguer**](https://github.com/Victor-Avilla/Burger-Menu)  
-  <sub>Projeto em JavaScript puro com métodos avançados de array, manipulação do DOM e layout responsivo em CSS Grid.</sub>
+- [**Chat ao Vivo**](https://github.com/Victor-Avilla/LiveChat)  
+  <sub>Chat funcional online que suporta múltiplos usuários, implementado com WebSocket.</sub>
 
 - [**API Node CRUD**](https://github.com/Victor-Avilla/Node)  
-  <sub>API RESTful completa construída com Node.js, Express, MongoDB e integração com Prisma ORM.</sub>
+  <sub>API RESTful construída com **Node.js, Express e Prisma ORM**, focada em boas práticas de arquitetura e integração de banco de dados.</sub>
 
 ---
 
@@ -31,45 +33,36 @@ Proativo, comunicativo e transparente, estou comprometido com o aprendizado cont
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squar&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
 ## Metas Profissionais e Pessoais
 
-### 🔧 Tecnologias e Conceitos a Aprender
+### 🔧 Próximos Passos de Desenvolvimento
 
 #### 🎨 Front-end
-- [X] **TypeScript**
-- [X] **TailWind CSS**
-- [ ] **Next.JS**
-- [ ] **Framer Motion**
-- [ ] **GSAP**
-- [ ] **SplitType**
-- [ ] **Intersection Observer API**
-- [ ] **Animações com CSS (Keyframes e Transitions)**
-- [ ] **Interações estilo Elementor**
+- [X] ReactJS
+- [X] TailWind CSS
+- [X] Deploy com Vercel
+- [ ] Consolidar fundamentos de TypeScript
 
 #### 🛠️ Back-end
-- [ ] Bancos de dados relacionais e não relacionais
-- [X] ORMs
-- [ ] **Docker**
-- [ ] Autenticação com **JWT**, criptografia de senhas
-- [X] Deploy de APIs usando plataformas como Render/Railway
+- [X] Deploy de APIs usando Render
+- [ ] Aprofundar integração Node.js + Express + MongoDB
+- [ ] Estudar automações com n8n e integrações com APIs externas
+- [ ] Explorar PostgreSQL com Fastify em projetos pessoais
 
 ---
 
 ### 💻 Próximos Projetos Pessoais
-- [ ] Portfólio interativo com animações usando Framer Motion e GSAP
-- [ ] Gerenciador financeiro com gráficos, modo escuro/claro e exportação para PDF
+- [ ] Portfólio interativo
+- [ ] Gerenciador financeiro com gráficos, histórico de transações e análise geral com agente de IA
 
 ---
 
@@ -81,4 +74,3 @@ Proativo, comunicativo e transparente, estou comprometido com o aprendizado cont
 <a href="mailto:victorfonsecaavila@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
